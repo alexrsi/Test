@@ -22,5 +22,5 @@ python main.py
 ## Tests
 
 ```bash
-pytest tests/
+pytest test_job_monitor.py
 ```
